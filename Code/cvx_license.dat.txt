@@ -1,0 +1,8 @@
+name=Chung-Chi Tsai
+organization=Texas A&M University
+email=chungchi@tamu.edu
+license_type=academic
+username=user
+hostid=001c42975fd9
+expiration=2017-11-08
+signature=Q1ZYUnYxfDAsAhRu78+LORFM3Uqm0lRf07dUTovrGwIUeBw8+VhAWx35MlxKvbkBqJbvC3F8MXZSWFZD
