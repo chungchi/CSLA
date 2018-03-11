@@ -2,6 +2,8 @@
 % Code Author: Chung-Chi "Charles" Tsai
 % Email: chungchi@tamu.edu
 % Date: April 2017
+% This source code is for research purpose only.
+% Any commercial usage should get the permission from authors.
 % Note: Please download the "CVX" and get the license file from "http://cvxr.com/cvx/download"
 % If you think this code is useful, please consider citing:
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
